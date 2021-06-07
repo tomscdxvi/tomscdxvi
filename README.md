@@ -4,7 +4,7 @@ Welcome to my profile!
 
 🔭 I’m currently working on a Web Portfolio design (tomsthe.dev) and Mobile App (Revise)
 
-🌱 I’m currently learning React Native, React.js, Vue.js, and Python.
+🌱 I’m currently learning React Native, React.js, and Python.
 
 👯 I’m looking to collaborate on side projects
 
