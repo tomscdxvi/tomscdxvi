@@ -4,7 +4,7 @@ Welcome to my profile!
 
 🔭 I’m currently working on a Web Portfolio design (tomsthe.dev).
 
-🌱 I’m currently learning React.js and Python.
+🌱 I’m currently learning Flutter.
 
 👯 I’m looking to collaborate on side projects
 
