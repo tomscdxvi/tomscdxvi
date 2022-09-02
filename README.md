@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 
-🌱 I’m currently learning Flutter.
+🌱 I’m currently learning android development.
 
 👯 I’m looking to collaborate on side projects
 
