@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer+with+a+focus+on+Full+Stack+Development)](https://git.io/typing-svg)
 
 Welcome to my profile!
 
