@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer+w/+focus+on+Full+Stack+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2999&pause=1000&color=F73BA1&random=false&width=435&lines=new+Software+Engineer;%3C+Full+Stack+Developer+%2F%3E)](https://git.io/typing-svg)
 
 Welcome to my profile!
 
