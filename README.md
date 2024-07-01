@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Avid+Software+Engineer;Avid+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Avid+Software/+Full+Stack+Engineer)](https://git.io/typing-svg)
 
 Welcome to my profile!
 
